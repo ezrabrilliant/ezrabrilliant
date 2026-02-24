@@ -66,15 +66,6 @@ I'm a Business Information Systems student at **Petra Christian University**, Su
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezrabrilliant&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00A5CF&icon_color=00A5CF&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezrabrilliant&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00A5CF&text_color=c9d1d9&langs_count=8" height="170" alt="languages" />
-</div>
-
----
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ezrabrilliant&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00A5CF&fire=00A5CF&currStreakLabel=00A5CF" alt="streak" />
 </div>
