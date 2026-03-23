@@ -75,3 +75,7 @@ I'm a Business Information Systems student at **Petra Christian University**, Su
 <div align="center">
   <sub>Surabaya, Indonesia</sub>
 </div>
+
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+---
