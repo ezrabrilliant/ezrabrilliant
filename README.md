@@ -77,5 +77,5 @@ I'm a Business Information Systems student at **Petra Christian University**, Su
 </div>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Ezra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezrabrilliant&hide=contribs,prs)
 ---
