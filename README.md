@@ -69,7 +69,9 @@ I'm a Business Information Systems student at **Petra Christian University**, Su
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ezrabrilliant&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00A5CF&fire=00A5CF&currStreakLabel=00A5CF" alt="streak" />
 </div>
+
 ![ezrabrilliant's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezrabrilliant&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 ---
 <div align="center">
   <sub>Surabaya, Indonesia</sub>
